@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "University of Louisiana at Lafayette",
+    "abbreviation": "ULL",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#000",
+    "primaryBrandColor": "#CE181E",
+    "buttonColor": "#CE181E",
+    "buttonTextColor": "#fff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/LouisianaL.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/LouisianaL.png",
+    "partner_id": "001Rd00000IdtVNIAZ",
+    "programName": "UL Lafayette Global Career Accelerator",
+    "termsandConditionsPolicy": "https://catalog.louisiana.edu/content.php?catoid=21&navoid=8064",
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 UL Lafayette credits",
+    "startDate": "June 8",
+    "endDate": "July 31"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Louisiana at Lafayette",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "University of Louisiana at Lafayette\r\n104 E. University Circle\r\nLafayette, LA 70503",
+    "abbreviation": "ULL",
+    "phone": "(337) 341-8226",
+    "credits": "3 UL Lafayette credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 UL Lafayette credits",
+    "abbreviation": "ULL",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Louisiana at Lafayette",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 UL Lafayette credits",
+    "abbreviation": "ULL",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CELA 301: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Louisiana at Lafayette",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 UL Lafayette credits",
+    "abbreviation": "ULL",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CELA 301: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Louisiana at Lafayette",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 UL Lafayette credits",
+    "abbreviation": "ULL",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CELA 301: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Louisiana at Lafayette",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 UL Lafayette credits",
+    "abbreviation": "ULL",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CELA 301: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of Louisiana at Lafayette",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 UL Lafayette credits",
+    "abbreviation": "ULL",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CELA 301: Global Career Accelerator",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UL Lafayette Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(337) 341-8226",
+    "abbreviation": "UL Lafayette"
+  },
+  {
+    "item": "begin",
+    "credits": "3 UL Lafayette credits",
+    "abbreviation": "ULL",
+    "phone": "(337) 341-8226"
+  }
+]
